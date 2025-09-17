@@ -78,7 +78,7 @@ Maps    : STM32G431C6Tx, STM32G431C6Ux, STM32G431C8Tx, STM32G431C8Ux,
           STM32G4A1METx, STM32G4A1REIx, STM32G4A1RETx, STM32G4A1REYx, 
           STM32G4A1VETx
 Literature:
-  [1]  SEGGER Linker User Guide (https://www.segger.com/doc/UM20005_Linker.html)
+  [1]  SEGGER Linker User Guide (https://doc.segger.com/UM20005_Linker.html)
   [2]  SEGGER Linker Sction Placement (https://wiki.segger.com/SEGGER_Linker_Section_Placement)
 */
 
